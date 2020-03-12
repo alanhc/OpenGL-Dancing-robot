@@ -1,6 +1,6 @@
 # OpenGL-Dancing-robot
 
-[![drum_io](http://img.youtube.com/vi/1JbuL0aO4/0.jpg)](https://youtu.be/1JbuL0aO4-s)
+[![opengl-dancing-robot](http://img.youtube.com/vi/1JbuL0aO4-s/0.jpg)](https://youtu.be/1JbuL0aO4-s)
 
 ## 說明你做了什麼
 
