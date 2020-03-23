@@ -6,8 +6,9 @@ OpenGL-Dancing-robot
 
 
 ## How to run
-1. 解壓縮 OpenCV2.1.zip
-2. 確定有安裝 [codeblocks](http://www.codeblocks.org/downloads/binaries)
+1. ```git clone https://github.com/alanhc/OpenGL-Dancing-robot.git```
+2. 解壓縮 OpenCV2.1.zip
+3. 確定有安裝 [codeblocks](http://www.codeblocks.org/downloads/binaries)
 
 調整模型
 1. 調整模型位置
