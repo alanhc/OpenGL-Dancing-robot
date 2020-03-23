@@ -1,8 +1,9 @@
-# OpenGL-Dancing-robot
-
+OpenGL-Dancing-robot
+======
+此專案為電腦圖學的課堂專案，靈感來自Maya的圖像化模型系統、利用圖學的一些概念(alpha、匯入模型、座標移動)，使用OpenGL來做的模型調控系統，使機器人可以跳動，觀看以下video查看更多：
+## Video
 [![opengl-dancing-robot](http://img.youtube.com/vi/1JbuL0aO4-s/0.jpg)](https://youtu.be/1JbuL0aO4-s)
 
-## 說明你做了什麼
 
 ## 如何操作
 1. 解壓縮 OpenCV2.1.zip
