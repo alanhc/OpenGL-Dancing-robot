@@ -5,7 +5,7 @@ OpenGL-Dancing-robot
 [![opengl-dancing-robot](http://img.youtube.com/vi/1JbuL0aO4-s/0.jpg)](https://youtu.be/1JbuL0aO4-s)
 
 
-## 如何操作
+## How to run
 1. 解壓縮 OpenCV2.1.zip
 2. 確定有安裝 [codeblocks](http://www.codeblocks.org/downloads/binaries)
 
